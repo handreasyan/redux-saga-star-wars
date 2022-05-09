@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//handreasyan.github.io/redux-saga-star-wars/static/css/main.4fa15959.css",
+    "main.js": "/https//handreasyan.github.io/redux-saga-star-wars/static/js/main.c3c6aa19.js",
+    "index.html": "/https//handreasyan.github.io/redux-saga-star-wars/index.html",
+    "main.4fa15959.css.map": "/https//handreasyan.github.io/redux-saga-star-wars/static/css/main.4fa15959.css.map",
+    "main.c3c6aa19.js.map": "/https//handreasyan.github.io/redux-saga-star-wars/static/js/main.c3c6aa19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa15959.css",
+    "static/js/main.c3c6aa19.js"
+  ]
+}
